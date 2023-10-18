@@ -2,7 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+```bash
+./pocketbase.exe serve
+```
+- create "notes" collection in http://127.0.0.1:8090/_/ 
+- add title and content fields
+- adds some records
+
+
 First, run the development server:
+
 
 ```bash
 npm run dev
