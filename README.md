@@ -10,7 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - adds some records
 
 
-First, run the development server:
+run the development server:
 
 
 ```bash
